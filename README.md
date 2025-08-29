@@ -1,6 +1,6 @@
 # Vank Wartales Modding
 
-## SPECIAL THANKS TO DONATORS
+### Special Thanks To Donators
 
 `Fals Tovarach`
 `Ryan Gill`
