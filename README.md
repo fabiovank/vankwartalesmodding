@@ -2,6 +2,6 @@
 
 ### Special Thanks To Donators
 
-`Fals Tovarach`
-`Ryan Gill`
-`Saniton Shala`
+`Fals T`
+`Ryan G`
+`Saniton S`
