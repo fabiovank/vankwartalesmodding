@@ -3,5 +3,6 @@
     "AppVersionMajor": 1,
     "AppVersionMinor": 0,
     "AppVersionBuild": 0,
-    "AppTestedOnGameVersion": "v1.0.42273"
+    "AppTestedOnGameVersion": "v1.0.42273",
+    "Options": []
 }
