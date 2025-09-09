@@ -1,4 +1,7 @@
 {
     "AppVersion": "v0.7.0",
+    "AppVersionMajor": 0,
+    "AppVersionMinor": 7,
+    "AppVersionPatch": 0,
     "AppTestedOnGameVersion": "v1.0.42273"
 }
