@@ -1,1 +1,1 @@
-
+(.sheets[] | select(.name == "unitClass") | .lines[] | select(.id == "Duellist" or .id == "Marksman" or .id == "Assassin" or .id == "Halberdier" or .id == "Barbarian" or .id == "Brawler" or .id == "Bully" or .id == "ArbalistSpe04") | .props.flags) = 32 |
