@@ -6,7 +6,7 @@
 <font color='red'>**Battle Unit Speed**</font> - Change the movement speed on battle
 
 ##### CLASS
-<font color='red'>**Worker**</font> - New class to work in the camp and not participate in battles
+$${\color{red}Red}$$**Worker** - New class to work in the camp and not participate in battles
 
 ##### CRAFT
 <font color='red'>**Dual Wield Weapons**</font> - Add recipes to craft weapons for the left hand on anvil
