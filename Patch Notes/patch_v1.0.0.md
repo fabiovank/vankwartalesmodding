@@ -9,7 +9,7 @@
 **$${\color{red}\textsf{Worker}}$$** - New class to work in the camp and not participate in battles
 
 ##### CRAFT
-<code style="color: red">**Dual Wield Weapons**</code> - Add recipes to craft weapons for the left hand on anvil
+![#f03c15]**Dual Wield Weapons**</code> - Add recipes to craft weapons for the left hand on anvil
 
 ##### GERAL
 <font color='red'>**Enemy Scale Reduced**</font> - Reduce the scale of enemy by half of your group
