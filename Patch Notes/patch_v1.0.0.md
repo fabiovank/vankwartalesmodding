@@ -6,7 +6,7 @@
 `Battle Unit Speed`
 Change the movement speed on battle
 ##### CLASS
-`Worker`
+```orange Worker ```
 New class to work in the camp and not participate in battles
 ##### CRAFT
 `Dual Wield Weapons`
