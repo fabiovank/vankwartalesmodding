@@ -6,8 +6,11 @@
 `Battle Unit Speed`
 Change the movement speed on battle
 ##### CLASS
-```orange Worker ```
+```
+**Worker**
 New class to work in the camp and not participate in battles
+```
+
 ##### CRAFT
 `Dual Wield Weapons`
 Add recipes to craft weapons for the left hand on anvil
