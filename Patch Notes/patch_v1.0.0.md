@@ -3,8 +3,7 @@
 ### Patch Notes v1.1.0
 
 ##### BATTLE
-> Battle Unit Speed
-Change the movement speed on battle
+> **Battle Unit Speed** - Change the movement speed on battle
 
 ##### CLASS
 ```
