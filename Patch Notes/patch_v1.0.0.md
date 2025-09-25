@@ -4,28 +4,28 @@
 
 ##### BATTLE
 ```
-Battle Unit Speed
+__Battle Unit Speed__
 Change the movement speed on battle
 ```
 
 ##### CLASS
 ```
-Worker
+__Worker__
 New class to work in the camp and not participate in battles
 ```
 
 ##### CRAFT
 ```
-Dual Wield Weapons
+__Dual Wield Weapons__
 Add recipes to craft weapons for the left hand on anvil
 ```
 
 ##### GERAL
 ```
-Enemy Scale Reduced
+__Enemy Scale Reduced__
 Reduce the scale of enemy by half of your group
 ```
 ```
-Volunteer Improved
+__Volunteer Improved__
 Improve the value reduction of wages
 ```
