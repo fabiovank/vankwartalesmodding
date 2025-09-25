@@ -1,31 +1,31 @@
 # Vank Wartales Modding
 
 ### Patch Notes v1.1.0
-`#0969DA`
+
 ##### BATTLE
 ```
-__Battle Unit Speed__
+Battle Unit Speed
 Change the movement speed on battle
 ```
 
 ##### CLASS
 ```
-__Worker__
+Worker
 New class to work in the camp and not participate in battles
 ```
 
 ##### CRAFT
 ```
-__Dual Wield Weapons__
+Dual Wield Weapons
 Add recipes to craft weapons for the left hand on anvil
 ```
 
 ##### GERAL
 ```
-__Enemy Scale Reduced__
+Enemy Scale Reduced
 Reduce the scale of enemy by half of your group
 ```
 ```
-__Volunteer Improved__
+Volunteer Improved
 Improve the value reduction of wages
 ```
