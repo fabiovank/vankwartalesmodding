@@ -1,7 +1,7 @@
 # Vank Wartales Modding
 
 ### Patch Notes v1.1.0
-
+`#0969DA`
 ##### BATTLE
 ```
 __Battle Unit Speed__
