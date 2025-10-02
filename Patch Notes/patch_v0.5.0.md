@@ -1,16 +1,27 @@
+# Vank Wartales Modding
 
-##### BATTLE
-> **Battle Zoom Out Increased** - Increase the max distance of zoom out in battles 40 to 80
+### Patch Notes 0.5.0
+
+##### CRAFT
+> **Crafted T2 Upgradable** - T2 crafted gear can be upgradable
 
 
-##### GERAL
-> **Camp Banner Unlock Improved** - Reduce the requeriments to unlock the Banner
+##### MINIGAME
+> **Blacksmithing Easy** - Minigame easy mode
 
-> **Enemy Scale Reduced** - Reduce the scale of enemy by half of your group from 2.0 to 0.5
+> **Fishing Easy** - Minigame easy mode
 
-> **Rank Appointment Time Reduced** - Reduce the requeriments to appoint ranks Captain/Lieutenant
+> **Lockpicking Easy** - Minigame easy mode
 
-> **Recruit Traits Improved** - Recruits in tavern will show up with only two positives traits
+> **Mining/Woodcutting Easy** - Minigame easy mode
 
-> **Resources Refill Faster** - Faster refill of the resources
+
+##### PATH
+> **Antiquities Price Bonus** - Increase the bonus tu sell Archaeologist antiquities from 50 to 75
+
+> **Capture More Easy** - Increase the chance bonus from 20 to 60
+
+> **Gear Upgrade Cost Reduced** - Reduce the cost of upgrade from 50 to 75
+
+> **Trackers Price Reduction** - Increse discount of trackers items from 10 to 50
 

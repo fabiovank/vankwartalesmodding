@@ -1,12 +1,19 @@
+# Vank Wartales Modding
 
-##### CLASS
-> **Unlock Specializations** - Unlocks the specializations for each class that's need to do arena quests to unlock
+### Patch Notes 0.3.0
 
-> **Unlock Specializations (Max Level)** - Unlocks the specializations for each class that's need max level to unlock
+##### GERAL
+> **Action Point Improved** - Improve the action point base to 6 and action point gain per rest 3
 
+> **Blacksmith Repair Cost Reduced** - Reduce the cost for repair your equipament in blacksmiths
 
-##### CRAFT
-> **Common Clothes** - Add recipes to craft common npcs clothes on anvil
+> **Gears on Merchants Improved** - Improve the probability of better gear show up on merchants
 
-> **Keys** - Add recipes to craft keys on workshop
+> **Loot Drop Probability Improved** - Improve the probability of loot drop
+
+> **Mission Reward Improved** - Improve the crown gain from a mission
+
+> **Repair Tool Improved** - Improve the value of armor repaired with repair tools
+
+> **Tavern Rest Cost Reduced** - Reduce the cost for rest in taverns
 

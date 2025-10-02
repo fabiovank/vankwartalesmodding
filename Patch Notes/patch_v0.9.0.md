@@ -1,36 +1,46 @@
+# Vank Wartales Modding
+
+### Patch Notes 0.9.0
 
 ##### CAMP
-> **Banner Resolution Cost** - Reduce the resolution cost from 100 to 10 and per use from 100 to 2
+> **Chest Money Laundering** - Improve the chances of sell stolen items from 30 to 100
 
-> **Banner Resolution Loot** - Improve the chances of better loot from 50 to 100
 
-> **Cooking Pot Food Reduction** - Increase the food reduction from 2,4,6 to 10,15,20
-
-> **Cooking Pot Perfect Recipe** - Increase the chance of cook perfect food from 15,30 to 25,50
-
-> **Snare Fangs On Rest Increased** - Increase the fangs gain on rest from 1,2,3 to 10,15,20
-
-> **Workshop Raw Material On Rest** - Increase the raw material gain on rest from 2,2,2 to 10,15,20
+##### CLASS
+> **Build Tree Reorganization (OLD)** - Reorganization of build tree of all classes to make better use of skills
+If you active this modification after start the game, respecialize your characters
 
 
 ##### CRAFT
-> **Dual Wield Weapons (TEST ONLY)** - Add recipes to craft weapons for the left hand on anvil
+> **Mercenary Acessory** - Add recipes to craft mercenary belt accessory that identify they life style. New professions not working, I do this instead
 
 
 ##### GERAL
-> **Knowledge Improved** - Improve the gain of knowledge and reduce the need for level up
+> **Enemy Level Difference** - Improve the level difference from enemy to same of player in all difficulty
 
-> **Merchant Refill Improved** - Improve merchant refill time
+> **Enemy Reinforcement Reduced** - Reduce the reinforcement of enemy from 1.5 to 0.5
 
-> **Ruins Puzzle Easy** - Puzzles inside the ruins is more easy now
+> **Happy To Influence Improved** - Improve the convert value happy to influence from 5 to 10
+
+> **Mission Negociation Improved** - Improve the negociations rates from a mission
+
+> **Poney Carriage (SUPER)** - Improve how much the Saddle can carry from 10 to 20000
+
+> **Rat Nest Improved** - Reduce the distance from nets far awayt from mother from 40 to 20
+
+> **Volunteer Free Wages** - Improve the volunteer to be free of wages
+
+> **Wanted Duration** - Suspicions lower more fast from 10 to 50
+
+> **Wages Salary Improved** - Wages salary calculations improved (reduced a lot)
 
 
-##### FIEF (DLC)
-> **Fief Start Like a Noble (New Game)** - Start the game with more money in your Fief fom 500 to 5000
+##### PATH
+> **Trade Buy/Sell Improved** - Improve the buy/sell bonus from 10 to 50
+
+> **Paths Tweaks** - Reduce points need to level up from 5 to 2, and next level from 5 to 2
 
 
-##### TAVERN (DLC)
-> **Tavern Gold Rate Improved** - Improve the gold rate in your Tavern
-
-> **Tavern Start Like a Noble (New Game)** - Start the game with more money in your Tavern
+##### PROFESSION
+> **No Bonus All** - No bonus for all profession
 

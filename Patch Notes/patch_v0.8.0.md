@@ -1,28 +1,39 @@
+# Vank Wartales Modding
 
-##### BATTLE
-> **Battle Zoom Out Increased (Min)** - Increase the max distance of zoom out in battles 40 to 45
-
-> **Battle Zoom In Decreased** - Decrease the min distance of zoom in in battles 30 to 10
-
-> **Battle Zoom In Decreased (Half)** - Decrease the min distance of zoom in in battles 30 to 20
-
+### Patch Notes 0.8.0
 
 ##### CAMP
-> **Tent Action Point Increased** - Increase the Tent action point +1 each upgrade
+> **Banner Resolution Cost** - Reduce the resolution cost from 100 to 10 and per use from 100 to 2
 
-> **Training Dummy XP Increased** - Increase the Training Dummy XP
+> **Banner Resolution Loot** - Improve the chances of better loot from 50 to 100
+
+> **Cooking Pot Food Reduction** - Increase the food reduction from 2,4,6 to 10,15,20
+
+> **Cooking Pot Perfect Recipe** - Increase the chance of cook perfect food from 15,30 to 25,50
+
+> **Snare Fangs On Rest Increased** - Increase the fangs gain on rest from 1,2,3 to 10,15,20
+
+> **Workshop Raw Material On Rest** - Increase the raw material gain on rest from 2,2,2 to 10,15,20
 
 
 ##### CRAFT
-> **Crafted T5 Upgradable** - T5 crafted gear can be upgradable
+> **Dual Wield Weapons (TEST ONLY)** - Add recipes to craft weapons for the left hand on anvil
 
 
 ##### GERAL
-> **Capture Skilled Enemies** - Add craft item with Alchemy to capture skilled enemies
+> **Knowledge Improved** - Improve the gain of knowledge and reduce the need for level up
 
-> **Drink/Misanthropic Cost Reduced** - Decrease the cost from 300 to 30
+> **Merchant Refill Improved** - Improve merchant refill time
 
-> **Gemstone Price Increased** - Increase the price of gemstones from 40 to 140 (Ruby and Sapphire)
+> **Ruins Puzzle Easy** - Puzzles inside the ruins is more easy now
 
-> **Loot More Gold and Gear** - Increase more gold for battle and improve the probability more gear to drop
+
+##### FIEF (DLC)
+> **Fief Start Like a Noble (New Game)** - Start the game with more money in your Fief fom 500 to 5000
+
+
+##### TAVERN (DLC)
+> **Tavern Gold Rate Improved** - Improve the gold rate in your Tavern
+
+> **Tavern Start Like a Noble (New Game)** - Start the game with more money in your Tavern
 

@@ -1,16 +1,19 @@
+# Vank Wartales Modding
+
+### Patch Notes 0.4.0
+
+##### BATTLE
+> **Battle Zoom Out Increased** - Increase the max distance of zoom out in battles 40 to 80
+
 
 ##### GERAL
-> **Action Point Improved** - Improve the action point base to 6 and action point gain per rest 3
+> **Camp Banner Unlock Improved** - Reduce the requeriments to unlock the Banner
 
-> **Blacksmith Repair Cost Reduced** - Reduce the cost for repair your equipament in blacksmiths
+> **Enemy Scale Reduced** - Reduce the scale of enemy by half of your group from 2.0 to 0.5
 
-> **Gears on Merchants Improved** - Improve the probability of better gear show up on merchants
+> **Rank Appointment Time Reduced** - Reduce the requeriments to appoint ranks Captain/Lieutenant
 
-> **Loot Drop Probability Improved** - Improve the probability of loot drop
+> **Recruit Traits Improved** - Recruits in tavern will show up with only two positives traits
 
-> **Mission Reward Improved** - Improve the crown gain from a mission
-
-> **Repair Tool Improved** - Improve the value of armor repaired with repair tools
-
-> **Tavern Rest Cost Reduced** - Reduce the cost for rest in taverns
+> **Resources Refill Faster** - Faster refill of the resources
 

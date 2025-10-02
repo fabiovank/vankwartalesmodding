@@ -1,24 +1,35 @@
+# Vank Wartales Modding
+
+### Patch Notes 0.6.0
 
 ##### CRAFT
-> **Crafted T2 Upgradable** - T2 crafted gear can be upgradable
+> **Alazar Items Upgradable** - Alazar gear can be upgradable
+
+> **Crafted T3 Upgradable** - T3 crafted gear can be upgradable
+
+> **Crafted T4 Upgradable** - T4 crafted gear can be upgradable
+
+> **Music Sheet** - All music sheet can be craft in Workshop
+
+
+##### GERAL
+> **Forsaken Village More Easy** - Easy mode for Forsaken Villages
+
+> **Human Resources Improved** - Reduce the cost and the days to by done
+
+> **Recruit Cost Reduced** - Reduce the cost of recruiting mercenarys on taverns
+
+> **Recruit Level Improved** - The level os mercenary recruited is same of the group
+
+> **Skill AP Cost Reduced** - Reduce the ap cost of all skills to 1
+
+> **Wages Payout by 7 days** - Wages payouts will by 7 days
 
 
 ##### MINIGAME
-> **Blacksmithing Easy** - Minigame easy mode
-
-> **Fishing Easy** - Minigame easy mode
-
-> **Lockpicking Easy** - Minigame easy mode
-
-> **Mining/Woodcutting Easy** - Minigame easy mode
+> **Bard Easy** - Minigame easy mode
 
 
-##### PATH
-> **Antiquities Price Bonus** - Increase the bonus tu sell Archaeologist antiquities from 50 to 75
-
-> **Capture More Easy** - Increase the chance bonus from 20 to 60
-
-> **Gear Upgrade Cost Reduced** - Reduce the cost of upgrade from 50 to 75
-
-> **Trackers Price Reduction** - Increse discount of trackers items from 10 to 50
+##### PROFESSION
+> **Bonus All Same** - Bonus of each profession is same to all (max level; Strength, Dexterity, Constitution = 5; Willpower = 3; CritHitPercent = 10)
 

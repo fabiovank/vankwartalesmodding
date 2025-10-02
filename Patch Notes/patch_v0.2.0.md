@@ -1,43 +1,15 @@
+# Vank Wartales Modding
 
-##### BATTLE
-> **Battle Unit Speed** - Change the movement speed on battle from avg 5 to 8
-
+### Patch Notes 0.2.0
 
 ##### CLASS
-> **Worker** - New class to work in the camp and not participate in battles
-If you remove this options, your save will load but the workers will turn into civilians
+> **Unlock Specializations** - Unlocks the specializations for each class that's need to do arena quests to unlock
 
-> **Worker (Old version)** - New class to work in the camp and not participate in battles (the first version of this mod)
+> **Unlock Specializations (Max Level)** - Unlocks the specializations for each class that's need max level to unlock
 
 
-##### GERAL
-> **Career Plan Cost Reduced** - Reduce the cost of attribute points planner
+##### CRAFT
+> **Common Clothes** - Add recipes to craft common npcs clothes on anvil
 
-> **Enemy XP Improved** - Improve XP gain in combat for each enemy
-
-> **Level Up XP Reduced (Super)** - Reduce XP to level up
-
-> **Level Up Job XP Reduced (Super)** - Reduce Job XP to level up
-
-> **Player Movement Speed** - Improve the player movement speed
-Walk from 6 to 8
-Run from 11 to 14
-
-> **Poney Carriage** - Improve how much the Saddle can carry from 10 to 500
-
-> **Poney Speed** - Improve the movement speed on the Horseshoes from 3 to 10
-
-> **Prisoner Easy Recruit** - Reduce the requeriment to recruit a prisoner
-
-> **Prisoner Hard Escape** - Improve the chance to stop prisoner from escape
-
-> **Recruit Time Reduced** - Reduce the time to replace recruited mercenary, when recruit, leave and enter the city again, another one show up
-
-> **Run Stamina Improved** - Faster stamina recovery (50% faster)
-
-> **Start Like a Noble (New Game)** - Start the game with better resources crowns, fame, tools and medicine
-
-> **Tiredness Reduced** - Improve the time need to the group rest
-
-> **Volunteer Improved** - Improve the value reduction of wages
+> **Keys** - Add recipes to craft keys on workshop
 
