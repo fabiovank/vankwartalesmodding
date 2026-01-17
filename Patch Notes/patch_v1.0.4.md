@@ -21,5 +21,5 @@ Vision from 0 to 3
 ##### PATH
 > **Better Torch Bonus** - Increase the bonus of light usage from 1 to 10 and light vision from 2 to 5
 
-> **More layers slots on armor** - Increase from 1 to 2 More Layers Slots with path
+> **More layers slots on armor** - Increase from 1 to 2 on Champion Craftsman within Path of Power and Glory
 
