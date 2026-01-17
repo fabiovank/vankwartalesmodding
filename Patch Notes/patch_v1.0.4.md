@@ -13,6 +13,7 @@ Dexterity from 8 to 12
 Constitution from 3 to 6
 Movement from 10 to 12
 Transport from 3 to 6
+Vision from 0 to 3
 
 > **Recruit Traits Improved** - Recruits in tavern will show up with only two positives traits [UPDATED]
 
