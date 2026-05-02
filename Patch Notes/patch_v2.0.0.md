@@ -2,29 +2,31 @@
 
 ### Patch Notes 2.0.0
 
-#### NEW_GAME
+### Tweaks
+
+#### New Game
 > **Start Buffs** - Improved selectable start buffs
 
 > **Start Debuffs** - Improved selectable start debuffs
 
 
-#### BATTLE
+#### Battle
 > **Enemy Scale Decreased** - Decrease the scale of enemy group [UPDATED]
 
 > **Enemy Armor Layer and Oil** - Improved the level requeriment
 
 
-#### CAMP
+#### Camp
 > **Rest Speed** - Increase speed
 
 > **Rest Dialog AP Recovery** - Invrease the AP recovered
 
 
-#### MOVEMENT
+#### Movement
 > **Poney Carriage** - Increase the how much can carry a lot [UPDATED]
 
 
-#### KNOWLEDGE
+#### Knowledge
 > **Fast Training** - Increase value
 
 > **Fortitude** - Increase value
@@ -34,9 +36,9 @@
 > **Optimised Gear** - Increase value
 
 
-#### PATH
+#### Path
 
-##### PATH_POWER_GLORY
+##### Power and Glory
 > **Bravest of the Brave** - Increase the action points gained
 
 > **Improved Restoration** - Increase the armor points restaured
@@ -56,7 +58,7 @@
 > **Ruthless** - Increase morale from killed enemies
 
 
-##### PATH_TRADE_CRAFT
+##### Trade and Craftsmanship
 > **Suppliers** - Increase discount
 
 > **Skilful Merchants** - Increase sell price
@@ -68,7 +70,7 @@
 > **Untouchables** - Increase influence gain
 
 
-##### PATH_CRIME_CHAOS
+##### Crime and Chaos
 > **Innocents** - Increase the value
 
 > **Nimble Fingers** - Increase the reduction value
@@ -80,7 +82,7 @@
 > **Regular Customers** - Increase sale price
 
 
-##### PATH_MYSTERIES_WISDOM
+##### Mysteries and Wisdom
 > **LessWounds** - Increase the chance
 
 > **Poachers** - Increase chance
@@ -89,29 +91,43 @@
 
 > **PestControl** - Increase influence
 
-> **Cleaner** - Increase sampla gain
+> **Cleaner** - Increase sample gain
 
 
-#### PRISONER
+#### Prisoner
 > **Prisoner Not Suicide** - Make the prisoner not to suicide
 
 > **Jail Escaper Hunt Player** - Improved how many espacer will hunt the player
 
 
-#### RATNEST
-> **Net Distance** - Reduce the distance from nest close to Mother [UPDATED]
+#### Rat Nest
+> **Nest Distance** - Reduce the distance from nest close to Mother [UPDATED]
 
 
-#### ITEMS
+#### items
 > **Armor Layer Level** - Improved level requeriment
 
 
-#### OTHERS
+#### Others
 > **Merchant Refill** - Improved refill time [UPDATED]
 
 
-#### DLCS
+#### DLCs
 
-##### DLC_FIEF
+##### The Fief
 > **Production Place** - Increase the production bonus (product, xp, profession xp) to placed unit [UPDATED]
+
+
+### MOD
+
+#### Battle
+> **Battle Positioning** - Improved the positioning
+
+
+#### Craft
+> **Craft Keys** - Add recipe [UPDATED]
+
+
+#### Others
+> **Arthes Witch** - Let's her join you
 
