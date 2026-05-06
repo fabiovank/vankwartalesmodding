@@ -25,5 +25,4 @@
 
 
 #### Craft
-> **mod_craft_mercenary_emblem** - mod_craft_mercenary_emblem_sub
-
+> **Mercenary Emblem** - Can craft mercenary emblems
